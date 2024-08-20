@@ -1,2 +1,1 @@
-# ToDoList
-List your Day to day task.
+# ToDo_List
